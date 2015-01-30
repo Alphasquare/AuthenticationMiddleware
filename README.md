@@ -3,7 +3,7 @@ Authentication Middleware for Slim PHP framework, built for Mxious.
 
 ## Installation
 
-    composer require "akrabat/rka-slim-session-middleware"
+    composer require "alphasquare/authmiddleware"
 
 ## Usage
 
