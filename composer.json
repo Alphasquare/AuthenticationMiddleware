@@ -1,0 +1,18 @@
+{
+    "name": "alphasquare/authmiddleware",
+    "description": "Authentication Middleware for Slim PHP. Made for Mxious-src.",
+    "require": {
+        "jeremykendall/query-auth": "~3.0"
+    },
+    "authors": [
+        {
+            "name": "Sergio Diaz",
+            "email": "sergio@alphasquare.us"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Auth\\": "src/"
+        }
+    }
+}
